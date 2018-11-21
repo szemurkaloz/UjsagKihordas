@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/581ab4535175740335508d1cb37eafea4b2e6488/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/581ab4535175740335508d1cb37eafea4b2e6488/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/bb5398d5717d8a18a443009947c7b4641461d283/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/581ab4535175740335508d1cb37eafea4b2e6488/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/bb5398d5717d8a18a443009947c7b4641461d283/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/autocomplete_focusable_bg.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/147d74faa35cc742b119cb5bc3b6b189f2e55bcd/output/res/drawable-v21/autocomplete_focusable_bg.xml"
+    },
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/autocomplete_bg_normal.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/147d74faa35cc742b119cb5bc3b6b189f2e55bcd/output/res/drawable-v21/autocomplete_bg_normal.xml"
+    },
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/pressable_item_background.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/a81750afaa5ce602eca2c16ef66c1e2573bb74ab/output/res/drawable-v21/pressable_item_background.xml"
+    },
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/autocomplete_bg_active.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/147d74faa35cc742b119cb5bc3b6b189f2e55bcd/output/res/drawable-v21/autocomplete_bg_active.xml"
+    },
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/581ab4535175740335508d1cb37eafea4b2e6488/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/bb5398d5717d8a18a443009947c7b4641461d283/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/bb5398d5717d8a18a443009947c7b4641461d283/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]

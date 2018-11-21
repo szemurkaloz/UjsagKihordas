@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/xml/chart_palettes_default_light.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/79636469916fb0f975e254d907f5cd8be57a32d0/output/res/xml/chart_palettes_default_light.xml"
+    },
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/xml/chart_palettes_default_dark.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/79636469916fb0f975e254d907f5cd8be57a32d0/output/res/xml/chart_palettes_default_dark.xml"
+    },
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/xml/chart_palettes_light_selected.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/79636469916fb0f975e254d907f5cd8be57a32d0/output/res/xml/chart_palettes_light_selected.xml"
+    },
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/xml/chart_palettes_dark_selected.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/79636469916fb0f975e254d907f5cd8be57a32d0/output/res/xml/chart_palettes_dark_selected.xml"
+    }
+]

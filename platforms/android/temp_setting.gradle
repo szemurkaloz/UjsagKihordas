@@ -1,0 +1,13 @@
+android {
+            defaultConfig {
+                applicationId = "org.nativescript.ujsagKihordas02"
+
+                if (17) {
+                    minSdkVersion = 17
+                }
+
+                if (17) {
+                    targetSdkVersion = 17
+                }
+            }
+        }

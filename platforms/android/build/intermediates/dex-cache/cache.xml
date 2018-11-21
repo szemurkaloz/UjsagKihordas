@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/szemurkaloz/.android/build-cache/712f8fe02cde7b6921d5bd417fab97acfdb4c457/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_195682a8e6e79d200f76e12b25e2ecee7a56eb6a.jar" />
+    </item>
+
+</items>

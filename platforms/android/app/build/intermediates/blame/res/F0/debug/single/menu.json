@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/menu/send_feedback_activity_menu.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/e370c40646d66018462201e04aa516ddb51e98ad/output/res/menu/send_feedback_activity_menu.xml"
+    },
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/menu/view_feedback_items_activity_menu.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/e370c40646d66018462201e04aa516ddb51e98ad/output/res/menu/view_feedback_items_activity_menu.xml"
+    },
+    {
+        "merged": "/home/szemurkaloz/Dokumentumok/progi/ujsagKihordas/ujsagKihordas02/platforms/android/app/build/intermediates/res/merged/F0/debug/menu/edit_details.xml",
+        "source": "/home/szemurkaloz/.android/build-cache/e370c40646d66018462201e04aa516ddb51e98ad/output/res/menu/edit_details.xml"
+    }
+]
